@@ -14,7 +14,7 @@ public class Mainvector2 {
 		N = sc.nextInt();
 		for (int i = 0; i < N; i++) {
 			System.out.println("ingrese valor de la posicion: " + i);
-			N = sc.nextInt();
+			int n = sc.nextInt();
 
 		}
 	
